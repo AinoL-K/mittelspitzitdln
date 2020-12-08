@@ -1,0 +1,54 @@
+header {
+	text-align: center;
+}
+
+body {
+	background-color: #D3D3D3;
+	height: 100%;
+	width: 100%
+	font-family: Verdana, sans-serif;
+}
+
+.nav {
+    margin: auto;
+	padding: auto;
+	width: 1200px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+ 
+a {
+	color: lightgrey;
+}
+
+.jumbotron {
+	background-image: url(VerkkosivuKuvat/TaustaMusta.jpg);
+	background-size: cover;
+	color: #ffffff;
+	margin-top: 10px;
+	height: 300px;
+	width: 1000px;
+}
+
+.my-class-1 {
+	max-width: 80%;
+}
+
+.my-container-1 {
+	background-image: url(VerkkosivuKuvat/TaustaMusta.jpg);
+	background-size: cover;
+	color: #ffffff;
+	max-width: 1000px;
+	padding: 30px;
+}
+
+i {
+	padding: 10px;
+}
+
+footer {
+	margin: 20px;
+}
